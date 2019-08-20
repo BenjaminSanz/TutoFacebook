@@ -1,15 +1,4 @@
 # TutoFacebook
 
 Codigo de ejemplo login y register con facebook del canal ioticos
-Canal: https://www.youtube.com/channel/UCqxBxJnwt2JTwPM2c0kx0Yw
-
-
- /$$$$$$             /$$     /$$                              
-|_  $$_/            | $$    |__/                              
-  | $$    /$$$$$$  /$$$$$$   /$$  /$$$$$$$  /$$$$$$   /$$$$$$$
-  | $$   /$$__  $$|_  $$_/  | $$ /$$_____/ /$$__  $$ /$$_____/
-  | $$  | $$  \ $$  | $$    | $$| $$      | $$  \ $$|  $$$$$$ 
-  | $$  | $$  | $$  | $$ /$$| $$| $$      | $$  | $$ \____  $$
- /$$$$$$|  $$$$$$/  |  $$$$/| $$|  $$$$$$$|  $$$$$$/ /$$$$$$$/
-|______/ \______/    \___/  |__/ \_______/ \______/ |_______/ 
-                                                                                                                                                                                                                         
+Canal: https://www.youtube.com/channel/UCqxBxJnwt2JTwPM2c0kx0Yw                                                                                                                                                           
