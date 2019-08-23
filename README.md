@@ -9,7 +9,7 @@ CREATE TABLE `tutorial` (
   `user_id` int(30) NOT NULL,
   `user_email` varchar(30) NOT NULL,
   `user_password` varchar(30) DEFAULT NULL,
-  `user_fb` varchar(50) NOT NULL,
+  `user_fb` varchar(50) DEFAULT NULL,
   `user_name` varchar(50) CHARACTER SET utf8 COLLATE utf8_spanish_ci NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
